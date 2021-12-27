@@ -1,2 +1,2 @@
 # Advanced-Tensorflow-Techniques
-A collection of projects focused to improving AI models using Tensorflow. 
+A collection of projects focused on improving AI models using Tensorflow. 
