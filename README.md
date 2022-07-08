@@ -6,7 +6,8 @@ The 4 main topics include computer vision, model layer customization, distribute
 ## 1. Advanced Computer Vision:
 
 - ### Cat vs Dogs Saliency Maps
-    Saliency Maps provide an explanation for predictions in convolutional neural networks. After training the neural network on images of cats and dogs and differentiating between the two, saliency maps will highlight the areas within images that allowed the neural network to make an accurate prediction. 
+    Saliency maps provide an explanation for predictions in convolutional neural networks. After training the neural network on images of cats and dogs and differentiating between the two, saliency maps will highlight the areas within images that allowed the neural network to make an accurate prediction. 
+    ![Cat Saliency Map](./Advanced%20Computer%20Vision%20with%20TensorFlow/Images/Cat%20Saliency%20Map.png)
 
 ## 2. Custom and Distributed Training:
 
