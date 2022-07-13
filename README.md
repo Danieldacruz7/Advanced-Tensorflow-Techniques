@@ -39,8 +39,10 @@ The 4 main topics include computer vision, model layer customization, distribute
     ![GAN Hands](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/GAN%20Hands.png)
 
 - ### Style Transfer Dog
-    ![Dog](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Dog.png) ![Painting](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Painting.png)
+    ![Dog](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Dog.png)
 
     ![Style transfer dog](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Style%20transfer%20dog.png)
-    
+
 - ### Variational Autoencoders on Anime Faces
+
+    ![Anime Faces](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Anime%20Faces.png)
