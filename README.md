@@ -28,9 +28,12 @@ The 4 main topics include computer vision, model layer customization, distribute
     ![Zombie Detector](./Advanced%20Computer%20Vision%20with%20TensorFlow/Images/Zombie%20detection.png)
     
 ## 2. Custom Models, Layers and Loss Functions:
-     
 
+These are extra technqiues that could be used to customize Tensorflow models. It can be be useful to create models from scratch for improved performance. On lower level, it is possible to customize the layers that can be inserted into a Tensorflow model.  
+     
 ## 3. Custom and Distributed Training:
+
+Training neural networks are computationally intensive. This means that without powerful GPU's, the time to train can be excessive. One way to mitigate against this problem is to use distributed training. It will speed up training to produce faster results. Distributed training involves distributing the workload across multiple GPU's, and the trained model is returned as a single entity.   
 
 ## 4. Generative Deep Learning with Tensorflow:
 
