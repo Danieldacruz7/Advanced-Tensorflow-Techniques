@@ -64,4 +64,7 @@ Generative adverserial networks (GANs) are a type of AI models that are able to 
 </p>
 
     The results can be seen here:
-    ![Anime Faces](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Anime%20Faces.png)
+    
+<p align="center">
+  <img src="./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Anime%20Faces.png">
+</p>
