@@ -45,9 +45,12 @@ Generative adverserial networks (GANs) are a type of AI models that are able to 
 
     ![GAN Hands](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/GAN%20Hands.png)
 
-- ### Style Transfer Dog
+- ### Style Transfer GAN
+    Style transfer is a technique used in to create a GAN that will take elements of one image and add it the another image. Below are two images. The first image is the image that will be altered using the overall style of the second image. 
+
     ![Dog](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Dog.png)
 
+    The results can be seen below. The image is clearly of the dog but it has been altered to include the style of the painting including the colours and textures. 
     ![Style transfer dog](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Style%20transfer%20dog.png)
 
 - ### Variational Autoencoders on Anime Faces
