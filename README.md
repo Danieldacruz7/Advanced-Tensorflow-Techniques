@@ -51,7 +51,10 @@ Generative adverserial networks (GANs) are a type of AI models that are able to 
     ![Dog](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Dog.png)
 
     The results can be seen below. The image is clearly of the dog but it has been altered to include the style of the painting including the colours and textures. 
-    ![Style transfer dog](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Style%20transfer%20dog.png)
+
+<p align="center">
+  <img src="./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Style%20transfer%20dog.png">
+</p>
 
 - ### Variational Autoencoders on Anime Faces
     A Variational Autoencoders is an architecture that uses an encoder and decoder that is used to reduce the reconstruction error between the initial data and the created data. 
