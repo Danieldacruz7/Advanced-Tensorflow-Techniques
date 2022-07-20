@@ -13,8 +13,6 @@ The 4 main topics include computer vision, model layer customization, distribute
   <img src="./Advanced%20Computer%20Vision%20with%20TensorFlow/Images/Cat%20Saliency%20Map.png">
 </p>
 
-    ![Cat Saliency Map](./Advanced%20Computer%20Vision%20with%20TensorFlow/Images/Cat%20Saliency%20Map.png)
-
 - ### Bounding Boxes for Bird Identification
 
     Bounding boxes are used to track and identify objects within an image. In this project, birds were identified within a series of images. The computer vision model is able to place a rectangular box around the bird that is identifies within an image. 
@@ -23,6 +21,8 @@ The 4 main topics include computer vision, model layer customization, distribute
 - ### Image Segmentation of Handwritten Digits
 
     Image segmentation is the process of breaking an image into multiple segments, or clusters of pixels that identify different objects within the image. In this example, the computer vision model is able to map over the handwritten digits in the image. 
+
+    One measure of in image segmentation involves using the intersection over union (IOU). By taking the groundtruth label and the prediction label, it can be compared to return a score that indicate the amount of overlap between labels. The case where the IOU score is zero indicates a poor result and where a score of one equals a perfect result. 
 
     ![Image Segmentation](./Advanced%20Computer%20Vision%20with%20TensorFlow/Images/Image%20Segmentation.png)
 
