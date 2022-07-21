@@ -18,7 +18,7 @@ The 4 main topics include computer vision, model layer customization, distribute
     Bounding boxes are used to track and identify objects within an image. In this project, birds were identified within a series of images. The computer vision model is able to place a rectangular box around the bird that is identifies within an image.
 
     The evaluation metric used in bounding box creation is the Intersection Over Union (IOU) metric. This takes into account the groundtruth label, which is manually determined and comparing it to the predicted label after training. A perfection score is represented by 1, and complete misalignment is 0. 
-      
+
     ![Bounding Boxes](./Advanced%20Computer%20Vision%20with%20TensorFlow/Images/Bounding%20Boxes.png)
 
 - ### Image Segmentation of Handwritten Digits
@@ -26,6 +26,8 @@ The 4 main topics include computer vision, model layer customization, distribute
     Image segmentation is the process of breaking an image into multiple segments, or clusters of pixels that identify different objects within the image. In this example, the computer vision model is able to map over the handwritten digits in the image. 
 
     One measure of in image segmentation involves using the intersection over union (IOU). By taking the groundtruth label and the prediction label, it can be compared to return a score that indicate the amount of overlap between labels. The case where the IOU score is zero indicates a poor result and where a score of one equals a perfect result. 
+    
+    The second measure used in image segmenetation is the Dice score. The Dice score is very similar to the IOU score. It also ranges from 0 to 1, and takes into the account the same factors. However, the Dice score can be seen as the F1 score of image segmentation. It is important to use both methods for cross-validation for a more accurate view of model performance. 
 
     ![Image Segmentation](./Advanced%20Computer%20Vision%20with%20TensorFlow/Images/Image%20Segmentation.png)
 
