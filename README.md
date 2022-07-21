@@ -15,7 +15,10 @@ The 4 main topics include computer vision, model layer customization, distribute
 
 - ### Bounding Boxes for Bird Identification
 
-    Bounding boxes are used to track and identify objects within an image. In this project, birds were identified within a series of images. The computer vision model is able to place a rectangular box around the bird that is identifies within an image. 
+    Bounding boxes are used to track and identify objects within an image. In this project, birds were identified within a series of images. The computer vision model is able to place a rectangular box around the bird that is identifies within an image.
+
+    The evaluation metric used in bounding box creation is the Intersection Over Union (IOU) metric. This takes into account the groundtruth label, which is manually determined and comparing it to the predicted label after training. A perfection score is represented by 1, and complete misalignment is 0. 
+      
     ![Bounding Boxes](./Advanced%20Computer%20Vision%20with%20TensorFlow/Images/Bounding%20Boxes.png)
 
 - ### Image Segmentation of Handwritten Digits
