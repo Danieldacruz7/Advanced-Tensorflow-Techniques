@@ -39,9 +39,7 @@ The 4 main topics include computer vision, model layer customization, distribute
     Transfer learning is one way of resolving this issue. By taking a pre-existing model trained on similiar data, it is possible to improve model performance and reduce training time. Typically, the pre-trained model would have been trained on a larger dataset with more powerful compute resources. 
     The benefits of using the convolutions and features from another model can be transfered onto a new project.
 
-    By doing so in this instance, we reduce the amount of data needed to create a model to detect zombies in an image. Here only 5 images were used. The original dataset included manually derived labels which is usually time consuming. 
-
-    The final result is an accurate model that can be retrained for other types of objects.  
+    By doing so in this instance, we reduce the amount of data needed to create a model to detect zombies in an image. Here only 5 images were used. The original dataset included manually derived labels which is usually time consuming. The final result is an accurate model that can be retrained for other types of objects.  
     
     ![Zombie Detector](./Advanced%20Computer%20Vision%20with%20TensorFlow/Images/Zombie%20detection.png)
     
