@@ -59,7 +59,11 @@ Generative adverserial networks (GANs) are a type of AI models that are able to 
 
 - ### Generative Adverserial Network for Hand Creation
 
+  In this project, a typical GAN is built. Using a dataset that is includes relatively small images that make it easier for a the GAN to reproduce. The dataset includes sign language images. The results can be seen below:   
+
     ![GAN Hands](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/GAN%20Hands.png)
+
+  
 
 - ### Style Transfer GAN
     Style transfer is a technique used in to create a GAN that will take elements of one image and add it the another image. Below are two images. The first image is the image that will be altered using the overall style of the second image. 
