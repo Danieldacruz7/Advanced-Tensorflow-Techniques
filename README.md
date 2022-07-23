@@ -57,7 +57,7 @@ Training neural networks are computationally intensive. This means that without 
 
 ## 4. Generative Deep Learning with Tensorflow:
 
-Generative adverserial networks (GANs) are a type of AI models that are able to create or reproduce images that it has been trained on. By using a discriminator and generator, the two models will compete with one another to create an image. In order to improve the quality of a GAN, large datasets and computational power is required. GANs are computationally intensive to produce and powerful GPU's are necessary to create high quality images. 
+Generative adverserial networks (GANs) are a type of AI model that is able to reproduce images that it has been trained on. By using a discriminator and generator, the two models will compete with one another to create an image. In order to improve the quality of a GAN, large datasets and computational power is required. GANs are computationally intensive to produce and powerful GPU's are necessary to create high quality images. 
 
 - ### AutoEncoder Model Loss and Accuracy
 
