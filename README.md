@@ -5,6 +5,10 @@ The 4 main topics include computer vision, model layer customization, distribute
 
 ## 1. Advanced Computer Vision:
 
+Computer vision is a branch of artificial intelligence that aims to process digital images, and derive meangingful information from those images and/or take action against those images. 
+
+These tasks includes identifiying objects within an image, classify images, segment images or generate new images based on previous datasets. 
+
 - ### Cat vs Dogs Saliency Maps
 
     Saliency maps provide an explanation for predictions in convolutional neural networks. After training the neural network on images of cats and dogs and differentiating between the two, saliency maps will highlight the areas within images that allowed the neural network to make an accurate prediction. 
