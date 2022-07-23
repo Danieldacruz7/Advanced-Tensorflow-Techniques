@@ -65,7 +65,7 @@ Autoencoders are a type of artificial neural network that is able to learn effic
 
 - ### Generative Adverserial Network for Hand Creation
 
-  In this project, a typical GAN is built. Using a dataset that is includes relatively small images that make it easier for a the GAN to reproduce. The dataset includes sign language images. The results can be seen below:   
+  In this project, a typical GAN is built. Using a dataset that is includes relatively small images that make it easier for the GAN to reproduce. The dataset includes sign language images. The results can be seen below:   
 
     ![GAN Hands](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/GAN%20Hands.png)
 
