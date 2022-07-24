@@ -59,9 +59,9 @@ Training neural networks are computationally intensive. This means that without 
 
 Generative adverserial networks (GANs) are a type of AI model that is able to reproduce images that it has been trained on. By using a discriminator and generator, the two models will compete with one another to create an image. In order to improve the quality of a GAN, large datasets and computational power is required. GANs are computationally intensive to produce and powerful GPU's are necessary to create high quality images. 
 
-- ### AutoEncoder Model Loss and Accuracy
+- ### [AutoEncoder Model Loss and Accuracy](./Generative%20Deep%20Learning%20with%20TensorFlow/AutoEncoder%20Model%20Loss%20and%20Accuracy.ipynb)
 
-Autoencoders are a type of artificial neural network that is able to learn efficient coding of unlabelled data, and then validate that its results by reproducing the original data. The autoencoder is made up of an encoder layer and decoder layer.  In this project, we are introduced to the structure and training of an autoencoder. 
+  Autoencoders are a type of artificial neural network that is able to learn efficient coding of unlabelled data, and then validate that its results by reproducing the original data. The autoencoder is made up of an encoder layer and decoder layer.  In this project, we are introduced to the structure and training of an autoencoder. 
 
 - ### [Generative Adverserial Network for Hand Creation](./Generative%20Deep%20Learning%20with%20TensorFlow/GAN%20for%20Hand%20Creation.ipynb)
 
@@ -80,7 +80,7 @@ Autoencoders are a type of artificial neural network that is able to learn effic
   <img src="./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Style%20transfer%20dog.png">
 </p>
 
-- ### Variational Autoencoders on Anime Faces
+- ### [Variational Autoencoders on Anime Faces](./Generative%20Deep%20Learning%20with%20TensorFlow/Variational%20Autoencoders%20on%20Anime%20Faces.ipynb)
     A Variational Autoencoders is an architecture that uses an encoder and decoder that is used to reduce the reconstruction error between the initial data and the created data. 
 
     In this example, a set of images using the [Anime Face dataset](https://github.com/bchao1/Anime-Face-Dataset). The initial dataset can be seen here:
