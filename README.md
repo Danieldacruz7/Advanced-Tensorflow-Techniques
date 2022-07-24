@@ -63,13 +63,13 @@ Generative adverserial networks (GANs) are a type of AI model that is able to re
 
 Autoencoders are a type of artificial neural network that is able to learn efficient coding of unlabelled data, and then validate that its results by reproducing the original data. The autoencoder is made up of an encoder layer and decoder layer.  In this project, we are introduced to the structure and training of an autoencoder. 
 
-- ### [Generative Adverserial Network for Hand Creation](./Generative%20Deep%20Learning%20with%20TensorFlow)
+- ### [Generative Adverserial Network for Hand Creation](./Generative%20Deep%20Learning%20with%20TensorFlow/GAN%20for%20Hand%20Creation.ipynb)
 
   In this project, a typical GAN is built. Using a dataset that is includes relatively small images that make it easier for the GAN to reproduce. The dataset includes sign language images. The results can be seen below:   
 
     ![GAN Hands](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/GAN%20Hands.png)
 
-- ### Style Transfer GAN
+- ### [Style Transfer GAN](./Generative%20Deep%20Learning%20with%20TensorFlow/Style%20Transfer%20GAN.ipynb)
     Style transfer is a technique used in to create a GAN that will take elements of one image and add it the another image. Below are two images. The first image is the image that will be altered using the overall style of the second image. 
 
     ![Dog](./Generative%20Deep%20Learning%20with%20TensorFlow/Images/Dog.png)
