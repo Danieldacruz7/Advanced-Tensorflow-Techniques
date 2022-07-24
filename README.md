@@ -61,9 +61,9 @@ Generative adverserial networks (GANs) are a type of AI model that is able to re
 
 - ### AutoEncoder Model Loss and Accuracy
 
-Autoencoders are a type of artificial neural network that is able to learn efficient coding of unlabelled data, and then validate that its results by reproducing the original data. The autoencoder is made up of an encoder layer and decoder layer.  
+Autoencoders are a type of artificial neural network that is able to learn efficient coding of unlabelled data, and then validate that its results by reproducing the original data. The autoencoder is made up of an encoder layer and decoder layer.  In this project, we are introduced to the structure and training of an autoencoder. 
 
-- ### Generative Adverserial Network for Hand Creation
+- ### [Generative Adverserial Network for Hand Creation](./Generative%20Deep%20Learning%20with%20TensorFlow)
 
   In this project, a typical GAN is built. Using a dataset that is includes relatively small images that make it easier for the GAN to reproduce. The dataset includes sign language images. The results can be seen below:   
 
