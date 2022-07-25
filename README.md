@@ -50,10 +50,19 @@ These tasks includes identifiying objects within an image, classify images, segm
 ## 2. Custom Models, Layers and Loss Functions
 
 These are extra technqiues that could be used to customize Tensorflow models. It can be be useful to create models from scratch for improved performance. On lower level, it is possible to customize the layers that can be inserted into a Tensorflow model.  
+
+   - ### [Creating a Custom Loss Function: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Creating%20a%20Custom%20Loss%20Function.ipynb)
+
+   - ### [Creating a VGG Network: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Creating%20a%20VGG%20network.ipynb)
+
+   - ### [Implementing a Quadratic Layer: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Implement%20a%20Quadratic%20Layer.ipynb) 
+
+   - ### [Multiple Output Model using the Keras Functional API: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Multiple%20Output%20Models%20using%20the%20Keras%20Functional%20API.ipynb)
      
 ## 3. Custom and Distributed Training
 
 Training neural networks are computationally intensive. This means that without powerful GPU's, the time to train can be excessive. One way to mitigate against this problem is to use distributed training. It will speed up training to produce faster results. Distributed training involves distributing the workload across multiple GPU's, and the trained model is returned as a single entity.   
+ 
 
 ## 4. Generative Deep Learning with Tensorflow
 
