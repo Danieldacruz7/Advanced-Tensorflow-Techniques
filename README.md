@@ -66,6 +66,10 @@ These are extra technqiues that could be used to customize Tensorflow models. It
 ## 3. Custom and Distributed Training
 
 Training neural networks are computationally intensive. This means that without powerful GPU's, the time to train can be excessive. One way to mitigate against this problem is to use distributed training. It will speed up training to produce faster results. Distributed training involves distributing the workload across multiple GPU's, and the trained model is returned as a single entity.   
+
+- ### [Basic Tensor Operations and Gradient Tape: ](./Custom%20and%20Distributed%20Training/Basic%20Tensor%20operations%20and%20GradientTape.ipynb)
+
+- ### [Breast Cancer Prediction: ](./Custom%20and%20Distributed%20Training/Breast%20Cancer%20Prediction.ipynb)
  
 
 ## 4. Generative Deep Learning with Tensorflow
