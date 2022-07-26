@@ -55,7 +55,7 @@ These are extra technqiues that could be used to customize Tensorflow models. It
 
    A loss function is a mathematical operation that will return a value that indicates how well a model has performed based on the comparison of the predicted values and the true values. The loss function is used on a training example, where the cost function returns the average of the loss over an entire training set. In this project, we can build a custom-made loss function and integrate it into our Tensorflow model. 
 
-   Here, a simple linear regression model is created using a deep learning framework. The regression model can be defined as **y = 2x + 1**. 
+   Here, a simple linear regression model is created using a deep learning framework. The regression model can be defined as **y = 2x + 1**. The loss function will defined as being the **Root Mean Squared Error** (RMSE). However, the deep learning model will need to infer the correct result, and the custom loss function will determine the accuracy of the result. 
 
    - ### [Creating a VGG Network: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Creating%20a%20VGG%20network.ipynb)
 
