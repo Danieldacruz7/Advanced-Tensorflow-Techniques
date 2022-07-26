@@ -53,6 +53,10 @@ These are extra technqiues that could be used to customize Tensorflow models. It
 
    - ### [Creating a Custom Loss Function: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Creating%20a%20Custom%20Loss%20Function.ipynb)
 
+   A loss function is a mathematical operation that will return a value that indicates how well a model has performed based on the comparison of the predicted values and the true values. The loss function is used on a training example, where the cost function returns the average of the loss over an entire training set. In this project, we can build a custom-made loss function and integrate it into our Tensorflow model. 
+
+   Here, a simple linear regression model is created using a deep learning framework. The regression model can be defined as **y = 2x + 1**. 
+
    - ### [Creating a VGG Network: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Creating%20a%20VGG%20network.ipynb)
 
    - ### [Implementing a Quadratic Layer: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Implement%20a%20Quadratic%20Layer.ipynb) 
