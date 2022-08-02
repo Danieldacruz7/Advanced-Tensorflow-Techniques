@@ -71,7 +71,9 @@ Training neural networks are computationally intensive. This means that without 
 
 - ### [Breast Cancer Prediction: ](./Custom%20and%20Distributed%20Training/Breast%20Cancer%20Prediction.ipynb)
 
-  In this exercise, a model is built to predict the malignancy of a tumour. Different features with regards to the tumour have been retrieved from the [Breast Cancer Wisconsin Data Set](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)). A neural network is built to predict whether the tumour is benign or malignant. 
+  In this exercise, a model is built to predict the malignancy of a tumour. Different features with regards to the tumour have been retrieved from the [Breast Cancer Wisconsin Data Set](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)). A neural network is built to predict whether the tumour is benign or malignant. Here the F1 Score is used to evaluate the model. 
+
+  The neural network was able to perform well on the test and validation datasets. The respective F1 scores were 0.97 and 0.98 - indicating the model was able to fit the dataset appropriately. 
  
 
 ## 4. Generative Deep Learning with Tensorflow
