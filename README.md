@@ -70,6 +70,8 @@ Training neural networks are computationally intensive. This means that without 
 - ### [Basic Tensor Operations and Gradient Tape: ](./Custom%20and%20Distributed%20Training/Basic%20Tensor%20operations%20and%20GradientTape.ipynb)
 
 - ### [Breast Cancer Prediction: ](./Custom%20and%20Distributed%20Training/Breast%20Cancer%20Prediction.ipynb)
+
+  In this exercise, a model is built to predict the malignancy of a tumour. Different features with regards to the tumour have been retrieved from the [Breast Cancer Wisconsin Data Set](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)). A neural network is built to predict whether the tumour is benign or malignant. 
  
 
 ## 4. Generative Deep Learning with Tensorflow
