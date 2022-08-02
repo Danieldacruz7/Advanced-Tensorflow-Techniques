@@ -59,6 +59,8 @@ These are extra technqiues that could be used to customize Tensorflow models. It
 
    - ### [Creating a VGG Network: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Creating%20a%20VGG%20network.ipynb)
 
+    The VGG network is an architecture of neural network consisting of 19 layers. Pretrained models have been effective in producing computer vision models with reduced training time and better results. Typically, the features obtained from the model can be added to a model where only the classifier part of the model needs to be trained. Here, a VGG network is built from scratch.  
+
    - ### [Implementing a Quadratic Layer: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Implement%20a%20Quadratic%20Layer.ipynb) 
 
    - ### [Multiple Output Model using the Keras Functional API: ](./Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with/Multiple%20Output%20Models%20using%20the%20Keras%20Functional%20API.ipynb)
