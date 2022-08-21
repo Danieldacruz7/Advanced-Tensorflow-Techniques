@@ -77,7 +77,6 @@ Training neural networks are computationally intensive. This means that without 
 
   The neural network was able to perform well on the test and validation datasets. The respective F1 scores were 0.97 and 0.98 - indicating the model was able to fit the dataset appropriately. 
  
-
 ## 4. Generative Deep Learning with Tensorflow
 
 Generative adverserial networks (GANs) are a type of AI model that is able to reproduce images that it has been trained on. By using a discriminator and generator, the two models will compete with one another to create an image. In order to improve the quality of a GAN, large datasets and computational power is required. GANs are computationally intensive to produce and powerful GPU's are necessary to create high quality images. 
@@ -104,7 +103,7 @@ Generative adverserial networks (GANs) are a type of AI model that is able to re
 </p>
 
 - ### [Variational Autoencoders on Anime Faces: ](./Generative%20Deep%20Learning%20with%20TensorFlow/Variational%20Autoencoders%20on%20Anime%20Faces.ipynb)
-    A Variational Autoencoders is an architecture that uses an encoder and decoder that is used to reduce the reconstruction error between the initial data and the created data. 
+    A Variational Autoencoders is an architecture that uses an encoder and decoder that is used to reduce the reconstruction error between the initial data and the created data. The variational autoencoder will try to replicate new versions of images that it has been trained on. 
 
     In this example, a set of images using the [Anime Face dataset](https://github.com/bchao1/Anime-Face-Dataset). The initial dataset can be seen here:
 
